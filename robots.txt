@@ -1,0 +1,24 @@
+# Robots.txt for Altius Gym Nicosia
+# This file tells search engines how to crawl our website
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.altiusgym.com/sitemap.xml
+
+# Crawl delay (optional - helps manage server load)
+Crawl-delay: 1
+
+# Disallow any private or admin areas (add as needed)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow all images to be indexed
+User-agent: Googlebot-Image
+Allow: /assets/
+
+# Allow CSS and JS for better rendering in search results
+User-agent: Googlebot
+Allow: /*.css$
+Allow: /*.js$
