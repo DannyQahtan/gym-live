@@ -1,0 +1,335 @@
+{
+  "_Breadcrumbs-eddf9d05.js": {
+    "file": "assets/Breadcrumbs-eddf9d05.js",
+    "imports": [
+      "_vendor-030914d3.js",
+      "index.html"
+    ]
+  },
+  "_forms-7d435a7b.js": {
+    "file": "assets/forms-7d435a7b.js",
+    "imports": [
+      "_react-e88a2147.js"
+    ]
+  },
+  "_framer-motion-4df0986d.js": {
+    "file": "assets/framer-motion-4df0986d.js",
+    "imports": [
+      "_react-e88a2147.js",
+      "_vendor-030914d3.js"
+    ]
+  },
+  "_react-dom-4c84d210.js": {
+    "file": "assets/react-dom-4c84d210.js",
+    "imports": [
+      "_react-e88a2147.js",
+      "_vendor-030914d3.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_react-e88a2147.js": {
+    "file": "assets/react-e88a2147.js"
+  },
+  "_router-6436b65d.js": {
+    "file": "assets/router-6436b65d.js",
+    "imports": [
+      "_react-e88a2147.js",
+      "_react-dom-4c84d210.js",
+      "_vendor-030914d3.js"
+    ]
+  },
+  "_seo-d4a1e967.js": {
+    "file": "assets/seo-d4a1e967.js",
+    "imports": [
+      "_react-e88a2147.js",
+      "_vendor-030914d3.js"
+    ]
+  },
+  "_ui-e10d1be4.js": {
+    "file": "assets/ui-e10d1be4.js",
+    "imports": [
+      "_react-e88a2147.js",
+      "_react-dom-4c84d210.js",
+      "_vendor-030914d3.js"
+    ]
+  },
+  "_vendor-030914d3.js": {
+    "dynamicImports": [
+      "_react-dom-4c84d210.js",
+      "_react-dom-4c84d210.js"
+    ],
+    "file": "assets/vendor-030914d3.js",
+    "imports": [
+      "_react-e88a2147.js",
+      "_seo-d4a1e967.js",
+      "_router-6436b65d.js",
+      "_react-dom-4c84d210.js"
+    ]
+  },
+  "index.css": {
+    "file": "assets/index-385949bf.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/montserrat-latin-400-normal-e66bcd27.woff2",
+      "assets/montserrat-latin-400-normal-6a7d6a30.woff",
+      "assets/montserrat-latin-500-normal-2b53300f.woff2",
+      "assets/montserrat-latin-500-normal-7ad98b2c.woff",
+      "assets/montserrat-latin-600-normal-d857325c.woff2",
+      "assets/montserrat-latin-600-normal-97ec5882.woff",
+      "assets/montserrat-latin-700-normal-f9d9e65b.woff2",
+      "assets/montserrat-latin-700-normal-ff51c769.woff",
+      "assets/montserrat-latin-800-normal-ba826fb8.woff2",
+      "assets/montserrat-latin-800-normal-26f9e611.woff",
+      "assets/anton-latin-400-normal-d0fa07ff.woff2",
+      "assets/anton-latin-400-normal-8b71c219.woff"
+    ],
+    "css": [
+      "assets/index-385949bf.css"
+    ],
+    "dynamicImports": [
+      "src/pages/HomePage.tsx",
+      "src/pages/MembershipsPage.tsx",
+      "src/pages/ClassesPage.tsx",
+      "src/pages/GalleryPage.tsx",
+      "src/pages/CommunityPage.tsx",
+      "src/pages/ContactPage.tsx",
+      "src/pages/NotFoundPage.tsx"
+    ],
+    "file": "assets/app-fd3d3ad2.js",
+    "imports": [
+      "_vendor-030914d3.js",
+      "_ui-e10d1be4.js",
+      "_react-e88a2147.js",
+      "_router-6436b65d.js",
+      "_seo-d4a1e967.js",
+      "_react-dom-4c84d210.js"
+    ],
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "node_modules/@fontsource/anton/files/anton-latin-400-normal.woff": {
+    "file": "assets/anton-latin-400-normal-8b71c219.woff",
+    "src": "node_modules/@fontsource/anton/files/anton-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/anton/files/anton-latin-400-normal.woff2": {
+    "file": "assets/anton-latin-400-normal-d0fa07ff.woff2",
+    "src": "node_modules/@fontsource/anton/files/anton-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff": {
+    "file": "assets/montserrat-latin-400-normal-6a7d6a30.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff2": {
+    "file": "assets/montserrat-latin-400-normal-e66bcd27.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff": {
+    "file": "assets/montserrat-latin-500-normal-7ad98b2c.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2": {
+    "file": "assets/montserrat-latin-500-normal-2b53300f.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff": {
+    "file": "assets/montserrat-latin-600-normal-97ec5882.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2": {
+    "file": "assets/montserrat-latin-600-normal-d857325c.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff": {
+    "file": "assets/montserrat-latin-700-normal-ff51c769.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff2": {
+    "file": "assets/montserrat-latin-700-normal-f9d9e65b.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff": {
+    "file": "assets/montserrat-latin-800-normal-26f9e611.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2": {
+    "file": "assets/montserrat-latin-800-normal-ba826fb8.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2"
+  },
+  "src/assets/BackgroundImage.webp": {
+    "file": "assets/BackgroundImage-6a29142f.webp",
+    "src": "src/assets/BackgroundImage.webp"
+  },
+  "src/assets/BenefitsBackgroundImage.webp": {
+    "file": "assets/BenefitsBackgroundImage-6faa51b0.webp",
+    "src": "src/assets/BenefitsBackgroundImage.webp"
+  },
+  "src/assets/ClassesBackGroundImage.webp": {
+    "file": "assets/ClassesBackGroundImage-27d7bcf6.webp",
+    "src": "src/assets/ClassesBackGroundImage.webp"
+  },
+  "src/assets/ClassesProgram.webp": {
+    "file": "assets/ClassesProgram-7dec5f61.webp",
+    "src": "src/assets/ClassesProgram.webp"
+  },
+  "src/assets/ContactUsPageGraphic.webp": {
+    "file": "assets/ContactUsPageGraphic-514a023b.webp",
+    "src": "src/assets/ContactUsPageGraphic.webp"
+  },
+  "src/assets/GroupClassesImage.webp": {
+    "file": "assets/GroupClassesImage-1f9f4e07.webp",
+    "src": "src/assets/GroupClassesImage.webp"
+  },
+  "src/assets/KarateImage.webp": {
+    "file": "assets/KarateImage-beebfbfd.webp",
+    "src": "src/assets/KarateImage.webp"
+  },
+  "src/assets/PersonalTrainingImage.webp": {
+    "file": "assets/PersonalTrainingImage-8d065856.webp",
+    "src": "src/assets/PersonalTrainingImage.webp"
+  },
+  "src/assets/gallery/DSC08308.webp": {
+    "file": "assets/DSC08308-bbc0fd42.webp",
+    "src": "src/assets/gallery/DSC08308.webp"
+  },
+  "src/assets/gallery/DSC08320.webp": {
+    "file": "assets/DSC08320-3679831c.webp",
+    "src": "src/assets/gallery/DSC08320.webp"
+  },
+  "src/assets/gallery/DSC08329.webp": {
+    "file": "assets/DSC08329-f9fd22bd.webp",
+    "src": "src/assets/gallery/DSC08329.webp"
+  },
+  "src/pages/ClassesPage.tsx": {
+    "assets": [
+      "assets/KarateImage-beebfbfd.webp",
+      "assets/GroupClassesImage-1f9f4e07.webp",
+      "assets/PersonalTrainingImage-8d065856.webp",
+      "assets/ClassesBackGroundImage-27d7bcf6.webp",
+      "assets/ClassesProgram-7dec5f61.webp"
+    ],
+    "file": "assets/ClassesPage-468638b4.js",
+    "imports": [
+      "_vendor-030914d3.js",
+      "index.html",
+      "_react-e88a2147.js",
+      "_ui-e10d1be4.js",
+      "_framer-motion-4df0986d.js",
+      "_Breadcrumbs-eddf9d05.js",
+      "_seo-d4a1e967.js",
+      "_router-6436b65d.js",
+      "_react-dom-4c84d210.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/ClassesPage.tsx"
+  },
+  "src/pages/CommunityPage.tsx": {
+    "file": "assets/CommunityPage-00e0abfd.js",
+    "imports": [
+      "_vendor-030914d3.js",
+      "index.html",
+      "_react-e88a2147.js",
+      "_framer-motion-4df0986d.js",
+      "_Breadcrumbs-eddf9d05.js",
+      "_seo-d4a1e967.js",
+      "_router-6436b65d.js",
+      "_react-dom-4c84d210.js",
+      "_ui-e10d1be4.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/CommunityPage.tsx"
+  },
+  "src/pages/ContactPage.tsx": {
+    "assets": [
+      "assets/ContactUsPageGraphic-514a023b.webp"
+    ],
+    "file": "assets/ContactPage-5283b5c5.js",
+    "imports": [
+      "_vendor-030914d3.js",
+      "index.html",
+      "_react-e88a2147.js",
+      "_forms-7d435a7b.js",
+      "_framer-motion-4df0986d.js",
+      "_Breadcrumbs-eddf9d05.js",
+      "_seo-d4a1e967.js",
+      "_router-6436b65d.js",
+      "_react-dom-4c84d210.js",
+      "_ui-e10d1be4.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/ContactPage.tsx"
+  },
+  "src/pages/GalleryPage.tsx": {
+    "assets": [
+      "assets/DSC08308-bbc0fd42.webp",
+      "assets/DSC08320-3679831c.webp",
+      "assets/DSC08329-f9fd22bd.webp"
+    ],
+    "file": "assets/GalleryPage-8b5925fe.js",
+    "imports": [
+      "_vendor-030914d3.js",
+      "index.html",
+      "_ui-e10d1be4.js",
+      "_react-e88a2147.js",
+      "_framer-motion-4df0986d.js",
+      "_Breadcrumbs-eddf9d05.js",
+      "_seo-d4a1e967.js",
+      "_router-6436b65d.js",
+      "_react-dom-4c84d210.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/GalleryPage.tsx"
+  },
+  "src/pages/HomePage.tsx": {
+    "assets": [
+      "assets/BackgroundImage-6a29142f.webp"
+    ],
+    "file": "assets/HomePage-f68891eb.js",
+    "imports": [
+      "_vendor-030914d3.js",
+      "index.html",
+      "_react-e88a2147.js",
+      "_framer-motion-4df0986d.js",
+      "_router-6436b65d.js",
+      "_seo-d4a1e967.js",
+      "_react-dom-4c84d210.js",
+      "_ui-e10d1be4.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/HomePage.tsx"
+  },
+  "src/pages/MembershipsPage.tsx": {
+    "assets": [
+      "assets/BenefitsBackgroundImage-6faa51b0.webp"
+    ],
+    "file": "assets/MembershipsPage-159c8517.js",
+    "imports": [
+      "_vendor-030914d3.js",
+      "index.html",
+      "_react-e88a2147.js",
+      "_framer-motion-4df0986d.js",
+      "_Breadcrumbs-eddf9d05.js",
+      "_seo-d4a1e967.js",
+      "_router-6436b65d.js",
+      "_react-dom-4c84d210.js",
+      "_ui-e10d1be4.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/MembershipsPage.tsx"
+  },
+  "src/pages/NotFoundPage.tsx": {
+    "file": "assets/NotFoundPage-08bec109.js",
+    "imports": [
+      "_vendor-030914d3.js",
+      "_router-6436b65d.js",
+      "index.html",
+      "_react-e88a2147.js",
+      "_seo-d4a1e967.js",
+      "_react-dom-4c84d210.js",
+      "_ui-e10d1be4.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/NotFoundPage.tsx"
+  }
+}

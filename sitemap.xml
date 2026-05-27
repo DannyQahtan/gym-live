@@ -1,47 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  
-  <!-- Homepage -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.altiusgym.com/</loc>
-    <lastmod>2025-12-11</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://altius.fit/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-  
-  <!-- Memberships Section -->
   <url>
-    <loc>https://www.altiusgym.com/#memberships</loc>
-    <lastmod>2025-12-11</lastmod>
+    <loc>https://altius.fit/classes</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
-  
-  <!-- Our Classes Section -->
   <url>
-    <loc>https://www.altiusgym.com/#ourclasses</loc>
-    <lastmod>2025-12-11</lastmod>
+    <loc>https://altius.fit/community</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
-  
-  <!-- Gallery Section -->
   <url>
-    <loc>https://www.altiusgym.com/#gallery</loc>
-    <lastmod>2025-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Contact Us Section -->
-  <url>
-    <loc>https://www.altiusgym.com/#contactus</loc>
-    <lastmod>2025-12-11</lastmod>
+    <loc>https://altius.fit/contact</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
+  <url>
+    <loc>https://altius.fit/gallery</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://altius.fit/memberships</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
