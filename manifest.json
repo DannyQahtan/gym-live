@@ -1,6 +1,6 @@
 {
-  "_Breadcrumbs-fd1aa5e4.js": {
-    "file": "assets/Breadcrumbs-fd1aa5e4.js",
+  "_Breadcrumbs-45e34c6f.js": {
+    "file": "assets/Breadcrumbs-45e34c6f.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html"
@@ -39,7 +39,7 @@
     ]
   },
   "index.css": {
-    "file": "assets/index-1e62b0a3.css",
+    "file": "assets/index-c58bf349.css",
     "src": "index.css"
   },
   "index.html": {
@@ -58,7 +58,7 @@
       "assets/anton-latin-400-normal-8b71c219.woff"
     ],
     "css": [
-      "assets/index-1e62b0a3.css"
+      "assets/index-c58bf349.css"
     ],
     "dynamicImports": [
       "src/pages/HomePage.tsx",
@@ -70,7 +70,7 @@
       "src/pages/PrivacyPage.tsx",
       "src/pages/NotFoundPage.tsx"
     ],
-    "file": "assets/app-4b5c764c.js",
+    "file": "assets/app-1b92ae5c.js",
     "imports": [
       "_react-68c4532c.js",
       "_ui-62d89ad9.js",
@@ -179,25 +179,25 @@
       "assets/ClassesBackGroundImage-27d7bcf6.webp",
       "assets/ClassesProgram-7dec5f61.webp"
     ],
-    "file": "assets/ClassesPage-6c0e75cf.js",
+    "file": "assets/ClassesPage-cfcb8eb6.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_ui-62d89ad9.js",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-fd1aa5e4.js",
+      "_Breadcrumbs-45e34c6f.js",
       "_vendor-5b052182.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/ClassesPage.tsx"
   },
   "src/pages/CommunityPage.tsx": {
-    "file": "assets/CommunityPage-82b4830f.js",
+    "file": "assets/CommunityPage-1b695df2.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-fd1aa5e4.js",
+      "_Breadcrumbs-45e34c6f.js",
       "_vendor-5b052182.js",
       "_ui-62d89ad9.js"
     ],
@@ -208,13 +208,13 @@
     "assets": [
       "assets/ContactUsPageGraphic-514a023b.webp"
     ],
-    "file": "assets/ContactPage-57abc6bc.js",
+    "file": "assets/ContactPage-62acc0f4.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_forms-d93cc4f2.js",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-fd1aa5e4.js",
+      "_Breadcrumbs-45e34c6f.js",
       "_vendor-5b052182.js",
       "_ui-62d89ad9.js"
     ],
@@ -227,13 +227,13 @@
       "assets/DSC08320-3679831c.webp",
       "assets/DSC08329-f9fd22bd.webp"
     ],
-    "file": "assets/GalleryPage-907ec9bf.js",
+    "file": "assets/GalleryPage-c4141298.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_ui-62d89ad9.js",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-fd1aa5e4.js",
+      "_Breadcrumbs-45e34c6f.js",
       "_vendor-5b052182.js"
     ],
     "isDynamicEntry": true,
@@ -243,7 +243,7 @@
     "assets": [
       "assets/BackgroundImage-6a29142f.webp"
     ],
-    "file": "assets/HomePage-ba4f0202.js",
+    "file": "assets/HomePage-86b34a10.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
@@ -258,12 +258,12 @@
     "assets": [
       "assets/BenefitsBackgroundImage-6faa51b0.webp"
     ],
-    "file": "assets/MembershipsPage-1f7eea08.js",
+    "file": "assets/MembershipsPage-d948fb2f.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-fd1aa5e4.js",
+      "_Breadcrumbs-45e34c6f.js",
       "_vendor-5b052182.js",
       "_ui-62d89ad9.js"
     ],
@@ -271,7 +271,7 @@
     "src": "src/pages/MembershipsPage.tsx"
   },
   "src/pages/NotFoundPage.tsx": {
-    "file": "assets/NotFoundPage-f1b31c4f.js",
+    "file": "assets/NotFoundPage-366020ed.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
@@ -282,11 +282,11 @@
     "src": "src/pages/NotFoundPage.tsx"
   },
   "src/pages/PrivacyPage.tsx": {
-    "file": "assets/PrivacyPage-eaf4b3f2.js",
+    "file": "assets/PrivacyPage-0ac28a64.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
-      "_Breadcrumbs-fd1aa5e4.js",
+      "_Breadcrumbs-45e34c6f.js",
       "_vendor-5b052182.js",
       "_ui-62d89ad9.js"
     ],
