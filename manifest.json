@@ -1,6 +1,6 @@
 {
-  "_Breadcrumbs-45e34c6f.js": {
-    "file": "assets/Breadcrumbs-45e34c6f.js",
+  "_Breadcrumbs-fadd8273.js": {
+    "file": "assets/Breadcrumbs-fadd8273.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html"
@@ -19,6 +19,9 @@
       "_vendor-5b052182.js"
     ]
   },
+  "_mediaStorage-317156ae.js": {
+    "file": "assets/mediaStorage-317156ae.js"
+  },
   "_react-68c4532c.js": {
     "file": "assets/react-68c4532c.js",
     "imports": [
@@ -32,6 +35,13 @@
       "_vendor-5b052182.js"
     ]
   },
+  "_useR2Manifest-0245be47.js": {
+    "file": "assets/useR2Manifest-0245be47.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "_mediaStorage-317156ae.js"
+    ]
+  },
   "_vendor-5b052182.js": {
     "file": "assets/vendor-5b052182.js",
     "imports": [
@@ -39,7 +49,7 @@
     ]
   },
   "index.css": {
-    "file": "assets/index-c58bf349.css",
+    "file": "assets/index-4b9b3b9b.css",
     "src": "index.css"
   },
   "index.html": {
@@ -58,7 +68,7 @@
       "assets/anton-latin-400-normal-8b71c219.woff"
     ],
     "css": [
-      "assets/index-c58bf349.css"
+      "assets/index-4b9b3b9b.css"
     ],
     "dynamicImports": [
       "src/pages/HomePage.tsx",
@@ -70,7 +80,7 @@
       "src/pages/PrivacyPage.tsx",
       "src/pages/NotFoundPage.tsx"
     ],
-    "file": "assets/app-1b92ae5c.js",
+    "file": "assets/app-a1a761f8.js",
     "imports": [
       "_react-68c4532c.js",
       "_ui-62d89ad9.js",
@@ -147,57 +157,33 @@
     "file": "assets/ContactUsPageGraphic-514a023b.webp",
     "src": "src/assets/ContactUsPageGraphic.webp"
   },
-  "src/assets/GroupClassesImage.webp": {
-    "file": "assets/GroupClassesImage-1f9f4e07.webp",
-    "src": "src/assets/GroupClassesImage.webp"
-  },
-  "src/assets/KarateImage.webp": {
-    "file": "assets/KarateImage-beebfbfd.webp",
-    "src": "src/assets/KarateImage.webp"
-  },
-  "src/assets/PersonalTrainingImage.webp": {
-    "file": "assets/PersonalTrainingImage-8d065856.webp",
-    "src": "src/assets/PersonalTrainingImage.webp"
-  },
-  "src/assets/gallery/DSC08308.webp": {
-    "file": "assets/DSC08308-bbc0fd42.webp",
-    "src": "src/assets/gallery/DSC08308.webp"
-  },
-  "src/assets/gallery/DSC08320.webp": {
-    "file": "assets/DSC08320-3679831c.webp",
-    "src": "src/assets/gallery/DSC08320.webp"
-  },
-  "src/assets/gallery/DSC08329.webp": {
-    "file": "assets/DSC08329-f9fd22bd.webp",
-    "src": "src/assets/gallery/DSC08329.webp"
-  },
   "src/pages/ClassesPage.tsx": {
     "assets": [
-      "assets/KarateImage-beebfbfd.webp",
-      "assets/GroupClassesImage-1f9f4e07.webp",
-      "assets/PersonalTrainingImage-8d065856.webp",
       "assets/ClassesBackGroundImage-27d7bcf6.webp",
       "assets/ClassesProgram-7dec5f61.webp"
     ],
-    "file": "assets/ClassesPage-cfcb8eb6.js",
+    "file": "assets/ClassesPage-8eb2d3d2.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_ui-62d89ad9.js",
+      "_mediaStorage-317156ae.js",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-45e34c6f.js",
+      "_Breadcrumbs-fadd8273.js",
       "_vendor-5b052182.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/ClassesPage.tsx"
   },
   "src/pages/CommunityPage.tsx": {
-    "file": "assets/CommunityPage-1b695df2.js",
+    "file": "assets/CommunityPage-103ab063.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
+      "_mediaStorage-317156ae.js",
+      "_useR2Manifest-0245be47.js",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-45e34c6f.js",
+      "_Breadcrumbs-fadd8273.js",
       "_vendor-5b052182.js",
       "_ui-62d89ad9.js"
     ],
@@ -208,13 +194,13 @@
     "assets": [
       "assets/ContactUsPageGraphic-514a023b.webp"
     ],
-    "file": "assets/ContactPage-62acc0f4.js",
+    "file": "assets/ContactPage-be520688.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_forms-d93cc4f2.js",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-45e34c6f.js",
+      "_Breadcrumbs-fadd8273.js",
       "_vendor-5b052182.js",
       "_ui-62d89ad9.js"
     ],
@@ -222,18 +208,15 @@
     "src": "src/pages/ContactPage.tsx"
   },
   "src/pages/GalleryPage.tsx": {
-    "assets": [
-      "assets/DSC08308-bbc0fd42.webp",
-      "assets/DSC08320-3679831c.webp",
-      "assets/DSC08329-f9fd22bd.webp"
-    ],
-    "file": "assets/GalleryPage-c4141298.js",
+    "file": "assets/GalleryPage-13ef08f1.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_ui-62d89ad9.js",
+      "_mediaStorage-317156ae.js",
+      "_useR2Manifest-0245be47.js",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-45e34c6f.js",
+      "_Breadcrumbs-fadd8273.js",
       "_vendor-5b052182.js"
     ],
     "isDynamicEntry": true,
@@ -243,7 +226,7 @@
     "assets": [
       "assets/BackgroundImage-6a29142f.webp"
     ],
-    "file": "assets/HomePage-86b34a10.js",
+    "file": "assets/HomePage-4a58ae2a.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
@@ -258,12 +241,12 @@
     "assets": [
       "assets/BenefitsBackgroundImage-6faa51b0.webp"
     ],
-    "file": "assets/MembershipsPage-d948fb2f.js",
+    "file": "assets/MembershipsPage-b88ebe73.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-45e34c6f.js",
+      "_Breadcrumbs-fadd8273.js",
       "_vendor-5b052182.js",
       "_ui-62d89ad9.js"
     ],
@@ -271,7 +254,7 @@
     "src": "src/pages/MembershipsPage.tsx"
   },
   "src/pages/NotFoundPage.tsx": {
-    "file": "assets/NotFoundPage-366020ed.js",
+    "file": "assets/NotFoundPage-4d520542.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
@@ -282,11 +265,11 @@
     "src": "src/pages/NotFoundPage.tsx"
   },
   "src/pages/PrivacyPage.tsx": {
-    "file": "assets/PrivacyPage-0ac28a64.js",
+    "file": "assets/PrivacyPage-53eb98b7.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
-      "_Breadcrumbs-45e34c6f.js",
+      "_Breadcrumbs-fadd8273.js",
       "_vendor-5b052182.js",
       "_ui-62d89ad9.js"
     ],

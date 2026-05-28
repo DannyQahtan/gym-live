@@ -1,7 +1,7 @@
 {
   "name": "Altius Gym Nicosia",
   "short_name": "Altius Gym",
-  "description": "Premier gym in Nicosia, Cyprus. State-of-the-art facilities, personal training, group classes, and karate school.",
+  "description": "Premier gym in Nicosia, Cyprus. State-of-the-art facilities, personal training and group classes.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
