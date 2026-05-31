@@ -1,1 +1,0 @@
-import{c as t}from"./react-68c4532c.js";import{H as e}from"./app-370afe23.js";const i=({items:i})=>{const s={"@context":"https://schema.org","@type":"BreadcrumbList",itemListElement:i.map((t,e)=>({"@type":"ListItem",position:e+1,name:t.name,item:t.url}))};return t(e,{children:t("script",{type:"application/ld+json",children:JSON.stringify(s)})})};export{i as B};
