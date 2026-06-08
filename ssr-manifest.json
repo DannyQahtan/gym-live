@@ -2169,25 +2169,25 @@
     "/assets/vendor-5b052182.js"
   ],
   "src/assets/BackgroundImage.webp": [
-    "/assets/HomePage-fd17322d.js",
+    "/assets/HomePage-f377fb19.js",
     "/assets/BackgroundImage-6a29142f.webp"
   ],
   "src/assets/BenefitsBackgroundImage.webp": [
-    "/assets/MembershipsPage-c8aa9351.js",
+    "/assets/MembershipsPage-676a6d09.js",
     "/assets/BenefitsBackgroundImage-6faa51b0.webp"
   ],
   "src/assets/ClassesBackGroundImage.webp": [
-    "/assets/ClassesPage-45513a99.js",
+    "/assets/ClassesPage-d026b9cc.js",
     "/assets/ClassesBackGroundImage-27d7bcf6.webp",
     "/assets/ClassesProgram-7dec5f61.webp"
   ],
   "src/assets/ClassesProgram.webp": [
-    "/assets/ClassesPage-45513a99.js",
+    "/assets/ClassesPage-d026b9cc.js",
     "/assets/ClassesBackGroundImage-27d7bcf6.webp",
     "/assets/ClassesProgram-7dec5f61.webp"
   ],
   "src/assets/ContactUsPageGraphic.webp": [
-    "/assets/ContactPage-b45fda5f.js",
+    "/assets/ContactPage-f7da47a2.js",
     "/assets/ContactUsPageGraphic-514a023b.webp"
   ],
   "src/assets/Logo.png": [
@@ -2205,19 +2205,19 @@
     "/assets/anton-latin-400-normal-8b71c219.woff"
   ],
   "src/assets/SponsorFamous.webp": [
-    "/assets/HomePage-fd17322d.js",
+    "/assets/HomePage-f377fb19.js",
     "/assets/BackgroundImage-6a29142f.webp"
   ],
   "src/assets/SponsorPanatta.webp": [
-    "/assets/HomePage-fd17322d.js",
+    "/assets/HomePage-f377fb19.js",
     "/assets/BackgroundImage-6a29142f.webp"
   ],
   "src/assets/SponsorPrive.webp": [
-    "/assets/HomePage-fd17322d.js",
+    "/assets/HomePage-f377fb19.js",
     "/assets/BackgroundImage-6a29142f.webp"
   ],
   "src/components/AnimatedCounter.tsx": [
-    "/assets/HomePage-fd17322d.js",
+    "/assets/HomePage-f377fb19.js",
     "/assets/BackgroundImage-6a29142f.webp"
   ],
   "src/components/DefaultMeta.tsx": [
@@ -2235,7 +2235,7 @@
     "/assets/anton-latin-400-normal-8b71c219.woff"
   ],
   "src/components/OperationHours.tsx": [
-    "/assets/ContactPage-b45fda5f.js",
+    "/assets/ContactPage-f7da47a2.js",
     "/assets/ContactUsPageGraphic-514a023b.webp"
   ],
   "src/components/StructuredData.tsx": [
@@ -2253,7 +2253,7 @@
     "/assets/anton-latin-400-normal-8b71c219.woff"
   ],
   "src/components/schema/Breadcrumbs.tsx": [
-    "/assets/Breadcrumbs-cc72b9eb.js"
+    "/assets/Breadcrumbs-58c414cf.js"
   ],
   "src/hooks/useMediaQuery.ts": [
     "/assets/montserrat-latin-400-normal-e66bcd27.woff2",
@@ -2312,33 +2312,33 @@
     "/assets/anton-latin-400-normal-8b71c219.woff"
   ],
   "src/pages/ClassesPage.tsx": [
-    "/assets/ClassesPage-45513a99.js",
+    "/assets/ClassesPage-d026b9cc.js",
     "/assets/ClassesBackGroundImage-27d7bcf6.webp",
     "/assets/ClassesProgram-7dec5f61.webp"
   ],
   "src/pages/CommunityPage.tsx": [
-    "/assets/CommunityPage-be15518d.js"
+    "/assets/CommunityPage-2401deab.js"
   ],
   "src/pages/ContactPage.tsx": [
-    "/assets/ContactPage-b45fda5f.js",
+    "/assets/ContactPage-f7da47a2.js",
     "/assets/ContactUsPageGraphic-514a023b.webp"
   ],
   "src/pages/GalleryPage.tsx": [
-    "/assets/GalleryPage-e0cf0558.js"
+    "/assets/GalleryPage-db499b86.js"
   ],
   "src/pages/HomePage.tsx": [
-    "/assets/HomePage-fd17322d.js",
+    "/assets/HomePage-f377fb19.js",
     "/assets/BackgroundImage-6a29142f.webp"
   ],
   "src/pages/MembershipsPage.tsx": [
-    "/assets/MembershipsPage-c8aa9351.js",
+    "/assets/MembershipsPage-676a6d09.js",
     "/assets/BenefitsBackgroundImage-6faa51b0.webp"
   ],
   "src/pages/NotFoundPage.tsx": [
-    "/assets/NotFoundPage-da55cd12.js"
+    "/assets/NotFoundPage-7d57fafb.js"
   ],
   "src/pages/PrivacyPage.tsx": [
-    "/assets/PrivacyPage-1bc3493d.js"
+    "/assets/PrivacyPage-306fe2c7.js"
   ],
   "src/routes.tsx": [
     "/assets/montserrat-latin-400-normal-e66bcd27.woff2",
@@ -2355,10 +2355,10 @@
     "/assets/anton-latin-400-normal-8b71c219.woff"
   ],
   "src/scenes/community/index.tsx": [
-    "/assets/CommunityPage-be15518d.js"
+    "/assets/CommunityPage-2401deab.js"
   ],
   "src/scenes/contactUs/index.tsx": [
-    "/assets/ContactPage-b45fda5f.js",
+    "/assets/ContactPage-f7da47a2.js",
     "/assets/ContactUsPageGraphic-514a023b.webp"
   ],
   "src/scenes/footer/index.tsx": [
@@ -2376,21 +2376,21 @@
     "/assets/anton-latin-400-normal-8b71c219.woff"
   ],
   "src/scenes/gallery/index.tsx": [
-    "/assets/GalleryPage-e0cf0558.js"
+    "/assets/GalleryPage-db499b86.js"
   ],
   "src/scenes/home/InstagramCarousel.tsx": [
-    "/assets/CommunityPage-be15518d.js"
+    "/assets/CommunityPage-2401deab.js"
   ],
   "src/scenes/home/SectionTeasers.tsx": [
-    "/assets/HomePage-fd17322d.js",
+    "/assets/HomePage-f377fb19.js",
     "/assets/BackgroundImage-6a29142f.webp"
   ],
   "src/scenes/home/index.tsx": [
-    "/assets/HomePage-fd17322d.js",
+    "/assets/HomePage-f377fb19.js",
     "/assets/BackgroundImage-6a29142f.webp"
   ],
   "src/scenes/memberships/index.tsx": [
-    "/assets/MembershipsPage-c8aa9351.js",
+    "/assets/MembershipsPage-676a6d09.js",
     "/assets/BenefitsBackgroundImage-6faa51b0.webp"
   ],
   "src/scenes/navbar/Link.tsx": [
@@ -2422,17 +2422,17 @@
     "/assets/anton-latin-400-normal-8b71c219.woff"
   ],
   "src/scenes/ourClasses/Class.tsx": [
-    "/assets/ClassesPage-45513a99.js",
+    "/assets/ClassesPage-d026b9cc.js",
     "/assets/ClassesBackGroundImage-27d7bcf6.webp",
     "/assets/ClassesProgram-7dec5f61.webp"
   ],
   "src/scenes/ourClasses/index.tsx": [
-    "/assets/ClassesPage-45513a99.js",
+    "/assets/ClassesPage-d026b9cc.js",
     "/assets/ClassesBackGroundImage-27d7bcf6.webp",
     "/assets/ClassesProgram-7dec5f61.webp"
   ],
   "src/scenes/privacy/index.tsx": [
-    "/assets/PrivacyPage-1bc3493d.js"
+    "/assets/PrivacyPage-306fe2c7.js"
   ],
   "src/shared/ActionButton.tsx": [
     "/assets/montserrat-latin-400-normal-e66bcd27.woff2",
@@ -2463,7 +2463,7 @@
     "/assets/anton-latin-400-normal-8b71c219.woff"
   ],
   "src/shared/Typewriter.tsx": [
-    "/assets/HomePage-fd17322d.js",
+    "/assets/HomePage-f377fb19.js",
     "/assets/BackgroundImage-6a29142f.webp"
   ],
   "src/shared/mediaStorage.ts": [
@@ -2512,10 +2512,10 @@
     "/assets/anton-latin-400-normal-8b71c219.woff"
   ],
   "src/shared/useGalleryImages.ts": [
-    "/assets/GalleryPage-e0cf0558.js"
+    "/assets/GalleryPage-db499b86.js"
   ],
   "src/shared/useInstagramPosts.ts": [
-    "/assets/CommunityPage-be15518d.js"
+    "/assets/CommunityPage-2401deab.js"
   ],
   "src/shared/useR2Manifest.ts": [
     "/assets/useR2Manifest-0245be47.js"

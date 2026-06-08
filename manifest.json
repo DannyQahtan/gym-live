@@ -1,6 +1,6 @@
 {
-  "_Breadcrumbs-cc72b9eb.js": {
-    "file": "assets/Breadcrumbs-cc72b9eb.js",
+  "_Breadcrumbs-58c414cf.js": {
+    "file": "assets/Breadcrumbs-58c414cf.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html"
@@ -49,7 +49,7 @@
     ]
   },
   "index.css": {
-    "file": "assets/index-4b9b3b9b.css",
+    "file": "assets/index-a3dc829f.css",
     "src": "index.css"
   },
   "index.html": {
@@ -68,7 +68,7 @@
       "assets/anton-latin-400-normal-8b71c219.woff"
     ],
     "css": [
-      "assets/index-4b9b3b9b.css"
+      "assets/index-a3dc829f.css"
     ],
     "dynamicImports": [
       "src/pages/HomePage.tsx",
@@ -80,7 +80,7 @@
       "src/pages/PrivacyPage.tsx",
       "src/pages/NotFoundPage.tsx"
     ],
-    "file": "assets/app-a2a43095.js",
+    "file": "assets/app-94ab0bec.js",
     "imports": [
       "_react-68c4532c.js",
       "_ui-62d89ad9.js",
@@ -162,28 +162,28 @@
       "assets/ClassesBackGroundImage-27d7bcf6.webp",
       "assets/ClassesProgram-7dec5f61.webp"
     ],
-    "file": "assets/ClassesPage-45513a99.js",
+    "file": "assets/ClassesPage-d026b9cc.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_ui-62d89ad9.js",
       "_mediaStorage-317156ae.js",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-cc72b9eb.js",
+      "_Breadcrumbs-58c414cf.js",
       "_vendor-5b052182.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/ClassesPage.tsx"
   },
   "src/pages/CommunityPage.tsx": {
-    "file": "assets/CommunityPage-be15518d.js",
+    "file": "assets/CommunityPage-2401deab.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_mediaStorage-317156ae.js",
       "_useR2Manifest-0245be47.js",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-cc72b9eb.js",
+      "_Breadcrumbs-58c414cf.js",
       "_vendor-5b052182.js",
       "_ui-62d89ad9.js"
     ],
@@ -194,13 +194,13 @@
     "assets": [
       "assets/ContactUsPageGraphic-514a023b.webp"
     ],
-    "file": "assets/ContactPage-b45fda5f.js",
+    "file": "assets/ContactPage-f7da47a2.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_forms-d93cc4f2.js",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-cc72b9eb.js",
+      "_Breadcrumbs-58c414cf.js",
       "_vendor-5b052182.js",
       "_ui-62d89ad9.js"
     ],
@@ -208,7 +208,7 @@
     "src": "src/pages/ContactPage.tsx"
   },
   "src/pages/GalleryPage.tsx": {
-    "file": "assets/GalleryPage-e0cf0558.js",
+    "file": "assets/GalleryPage-db499b86.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
@@ -216,7 +216,7 @@
       "_mediaStorage-317156ae.js",
       "_useR2Manifest-0245be47.js",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-cc72b9eb.js",
+      "_Breadcrumbs-58c414cf.js",
       "_vendor-5b052182.js"
     ],
     "isDynamicEntry": true,
@@ -226,7 +226,7 @@
     "assets": [
       "assets/BackgroundImage-6a29142f.webp"
     ],
-    "file": "assets/HomePage-fd17322d.js",
+    "file": "assets/HomePage-f377fb19.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
@@ -241,12 +241,12 @@
     "assets": [
       "assets/BenefitsBackgroundImage-6faa51b0.webp"
     ],
-    "file": "assets/MembershipsPage-c8aa9351.js",
+    "file": "assets/MembershipsPage-676a6d09.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
       "_framer-motion-8275151d.js",
-      "_Breadcrumbs-cc72b9eb.js",
+      "_Breadcrumbs-58c414cf.js",
       "_vendor-5b052182.js",
       "_ui-62d89ad9.js"
     ],
@@ -254,7 +254,7 @@
     "src": "src/pages/MembershipsPage.tsx"
   },
   "src/pages/NotFoundPage.tsx": {
-    "file": "assets/NotFoundPage-da55cd12.js",
+    "file": "assets/NotFoundPage-7d57fafb.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
@@ -265,11 +265,11 @@
     "src": "src/pages/NotFoundPage.tsx"
   },
   "src/pages/PrivacyPage.tsx": {
-    "file": "assets/PrivacyPage-1bc3493d.js",
+    "file": "assets/PrivacyPage-306fe2c7.js",
     "imports": [
       "_react-68c4532c.js",
       "index.html",
-      "_Breadcrumbs-cc72b9eb.js",
+      "_Breadcrumbs-58c414cf.js",
       "_vendor-5b052182.js",
       "_ui-62d89ad9.js"
     ],
